@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/KDM/static/css/main.f6273412.css",
+    "main.js": "/KDM/static/js/main.d25eb270.js",
+    "static/js/787.359c4924.chunk.js": "/KDM/static/js/787.359c4924.chunk.js",
+    "index.html": "/KDM/index.html",
+    "main.f6273412.css.map": "/KDM/static/css/main.f6273412.css.map",
+    "main.d25eb270.js.map": "/KDM/static/js/main.d25eb270.js.map",
+    "787.359c4924.chunk.js.map": "/KDM/static/js/787.359c4924.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6273412.css",
+    "static/js/main.d25eb270.js"
+  ]
+}
